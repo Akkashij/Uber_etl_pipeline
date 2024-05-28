@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nimble-bonus-414015",
+  "private_key_id": "0939fc39127ee944df718bbf9954771325da95e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWA1sXoBrt8Ma/\ntCW56iumkPUGe43i6BnutiZZ7m3N6yhNTPqiJsc6FSu/ra7VqjqXWX7SXkABdVF6\nk1YE4zNZSv4XA1uPE5O5Jg00YnaXSkXrSkI7vckNbCu8dLqzvNvNdzltQlHv61Ri\n0x+LdBit+vO1XNcoyuorT0NiF3cjqkIFihc3/+S0smixb9vAAdc5yrifTRE+G3jh\nzh6HRXz8E0zYGN3i009rtWd0S4SrDlG8BBOvZlqzqnkYtbkci0LP6DpHRcM9VKUL\nH2K/6wyLKsmYjt6X/Yyd6wDCWw3nQstnyswx5vRttGWWhnS+IJzedgNMGjKT0n6r\nA34zCN+PAgMBAAECggEAEJ9eTgJc0eb8ZCIK0IFpPLzc/NEDVY2S8hEXMnxlh/Om\nnWmhiY9HtL6CauPQUbH91TwzMJ8q2B7zu98OWwvTzn3K9YbVVjjkv1U+yLchhrrs\nnYvJ6cth/qP/ugzUMY2CNXFeT84YAIs/pZT7Y42aNLoD5hRp28/C8Q4Gtrg9RAZB\nf+zMGLOBiuzsfGTFtYvfaSURPTBO32jQK8HKjwhtKSSocicaL0jvbELCoXC/u3Qi\nHEqLfqNT4gBfQZVnh22D0dKHnEaSNv5u/hFKxXGLy7t1XVIPwD8CQszBc797KG5L\nDftVXg3uYvbMXktnEUUgORyIYZ9Roa2JKPYfoK9tyQKBgQDyCoHF6stTLKZSL9Ag\n5f3tEQtIxXIPLvMqDBYz8UekEwQKIxcPsYANeyAHo/CPolQKoKX+6fwZi+GJivO4\n/WIW5pETEX1ipa+WusUQNT+vD35pQtyjuUP+lNmO7WGGmvp37V2bN9gZVGiRq2hA\nYuhBXroGSU7sGBXh62H3c3eu1wKBgQDiWwtqGwTjxFLT45gmmciaT2NWpursGyHz\nulOQPZl+2XfeMD1PCSQg+UefqgtJUBacMwRUyxthhY5c9KBihVn2UZkGDCWp9vhl\nIJ3fUQYuFEadvfRmdR082qScWS9a/tIUtdtbn/IEOkXzvQWk2an4yNNViBoyB6Ud\nNXhojDTWCQKBgDor6kquBpYD6ilgkm4FuMSsTwD7a1FY4Fpfs0pil+xIIbVp/5Xm\n/DbBO856SUvMINS5DYw5ojxlkRwkiDUSuOt2GLHzhyYZWh0o4Enn8llZqPEVf7/d\nvAjIr40ZYlIel0oRg2jVwBs+XS99eb3Xx6hGYwE1x0EY/NFiaBY36zDbAoGBAKje\nnZRqVeqK4/Q6Xp+lqTgeNBFIdAjzcRABGSiKHEK7gSbdPFADlNWYw+uFE+h8/HFJ\nylhsMqA94GjPA/ycWfJfC9esJkk3/DaN79nT+9VSwSAbwALUKpzkzVvrWV38r8RN\nrDoeCJNI2jkt8tD6pkj5oli0Mj7S30b8RjlRKHXpAoGAa7/ROzObH8J9ss85Ao59\nIOF12Bj0i1hocl22M5n1pUVQe3eHRdcXhq54hg2daBbP0J/FuhQFS+/SkBlGqzmE\n9w+sZRn19WQ8cX60eXz8cqxLrR0rl73jpmGtFHOBdT0h0UC1LMIPFjXpqz9xVCVa\npLEHpj0PDfunwq13qPt4FL4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mage-zoomcamp@nimble-bonus-414015.iam.gserviceaccount.com",
+  "client_id": "105746724622368756613",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mage-zoomcamp%40nimble-bonus-414015.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

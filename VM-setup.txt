@@ -1,0 +1,51 @@
+# updating the os
+sudo apt-get update -y
+
+# Install Python and pip 
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+
+sudo apt-get install wget
+
+
+#install pip
+sudo apt install python3-pip
+
+
+#install git
+sudo apt install git
+
+#check out git installation(should return a version value)
+git -–version 
+
+#if you encountered the "bad git problem", find the path git is #installed(for me it was: /usr/bin/git):
+
+which git
+
+#add git to your local path ( truy cập file .bashrc)
+export PATH="$PATH:/usr/bin/git"  # Replace `/usr/bin/git` with the actual directory where Git is installed
+
+# Install Mage(use pipx)
+sudo pip install mage-ai
+
+# Install Google Cloud Library
+pip install google-cloud
+
+pip install google-cloud-bigquery
+
+pip install google-cloud-storage
+
+#start mage
+mage start [your_project_name_on_GCP] #(project_gcp)
+
+
+
+#sửa lỗi module 'lib' has no attribute 'X509_V_FLAG_CB_ISSUER_CHECK'
+1. Delete old version
+sudo apt remove python3-pip 
+
+2.Based on the pip Install guide, do the following:
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3 get-pip.py
